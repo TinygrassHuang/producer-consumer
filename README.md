@@ -1,2 +1,2 @@
 # producer-consumer
-This is the course I did during my master study.
+This is the coursework (for processes and threads) I did during my master study.
